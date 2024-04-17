@@ -40,9 +40,7 @@ export default function Home() {
 
           <p className="text-muted-foreground">
             I currently work as a front-end developer at{" "}
-            <LinkBadge href="https://www.vilaapps.com.br/">VilaApps</LinkBadge>{" "}
-            and am building an open source cmr platform built with the latest
-            Next.js features.
+            <LinkBadge href="https://www.vilaapps.com.br/">VilaApps</LinkBadge>.
           </p>
         </div>
       </main>
